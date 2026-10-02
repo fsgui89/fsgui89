@@ -2,7 +2,7 @@
 
 [English](#english) | [Português](#portugues)
 
-**Full Stack Developer**
+**React Developer**
 
 React • Next.js • Node.js  
 TypeScript • JavaScript • Python  
@@ -19,7 +19,7 @@ I develop web interfaces, APIs and automations, combining software development w
 ### Focus
 
 - **Development:** React, Next.js, Node.js, TypeScript, JavaScript and Python.
-- **Data and integrations:** APIs, PostgreSQL / SQL and MongoDB.
+- **Data and integrations:** APIs; PostgreSQL / SQL and MongoDB used in course projects.
 - **Delivery:** Git / GitHub and Azure DevOps.
 - **Differentiators:** AI Integration, UX and product discovery.
 
@@ -46,7 +46,7 @@ Desenvolvo interfaces web, APIs e automações, conectando desenvolvimento de so
 ### Foco de atuação
 
 - **Desenvolvimento:** React, Next.js, Node.js, TypeScript, JavaScript e Python.
-- **Dados e integrações:** APIs, PostgreSQL / SQL e MongoDB.
+- **Dados e integrações:** APIs; PostgreSQL / SQL e MongoDB utilizados em projetos de formação.
 - **Entrega:** Git / GitHub e Azure DevOps.
 - **Diferenciais:** Integração de IA, UX e discovery de produto.
 

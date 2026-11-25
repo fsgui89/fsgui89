@@ -1,4 +1,7 @@
-![Guilherme Ferreira. Frontend Developer with a Full Stack background. React, Next.js, TypeScript and AI Integration.](assets/guilherme-ferreira-banner.webp)
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/fsgui89/fsgui89/refs/heads/main/assets/guilherme-ferreira-mobile.webp">
+  <img src="assets/guilherme-ferreira-banner.webp" alt="Guilherme Ferreira. Frontend Developer with a Full Stack background. React, Next.js, TypeScript and AI Integration.">
+</picture>
 
 [Featured projects](#featured-projects) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://www.linkedin.com/in/guilhermefsdev/)
 

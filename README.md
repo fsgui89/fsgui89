@@ -6,7 +6,7 @@
 
 I'm a **Frontend Developer specializing in React**, with Full Stack training and complementary backend knowledge. I build responsive interfaces with React, Next.js and TypeScript, develop reusable components and integrate REST APIs. I care about accessible interactions, clear user flows and code that's easy to review and improve.
 
-At Nexso, I contribute to SaaS frontend development. I use AI to explore solutions, support implementation and review code, then verify the results against the product requirements.
+At Nexso, I contribute to SaaS frontend development. I use AI-assisted development to work through implementation options and keep code review focused.
 
 <details>
 <summary>Leia em português</summary>
@@ -21,6 +21,7 @@ Na Nexso, contribuo com o desenvolvimento frontend de soluções SaaS. Uso IA pa
 
 **Frontend**
 
+<p>
 <img alt="React" height="24" src="https://img.shields.io/badge/React-132741?style=flat-square&amp;logo=react&amp;logoColor=91D5FF">
 <img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-132741?style=flat-square&amp;logo=nextdotjs&amp;logoColor=91D5FF">
 <img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-132741?style=flat-square&amp;logo=typescript&amp;logoColor=91D5FF">
@@ -29,18 +30,23 @@ Na Nexso, contribuo com o desenvolvimento frontend de soluções SaaS. Uso IA pa
 <img alt="CSS3" height="24" src="https://img.shields.io/badge/CSS3-132741?style=flat-square&amp;logo=css&amp;logoColor=91D5FF">
 <img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind%20CSS-132741?style=flat-square&amp;logo=tailwindcss&amp;logoColor=91D5FF">
 <img alt="Vite" height="24" src="https://img.shields.io/badge/Vite-132741?style=flat-square&amp;logo=vite&amp;logoColor=91D5FF">
+</p>
 
 **Backend & Integration** · Complementary skills
 
+<p>
 <img alt="Node.js" height="24" src="https://img.shields.io/badge/Node.js-132741?style=flat-square&amp;logo=nodedotjs&amp;logoColor=91D5FF">
 <img alt="REST APIs" height="24" src="https://img.shields.io/badge/REST%20APIs-132741?style=flat-square">
 <img alt="SQL" height="24" src="https://img.shields.io/badge/SQL-132741?style=flat-square">
+</p>
 
 **Development & Quality**
 
+<p>
 <img alt="Git" height="24" src="https://img.shields.io/badge/Git-132741?style=flat-square&amp;logo=git&amp;logoColor=91D5FF">
 <img alt="GitHub" height="24" src="https://img.shields.io/badge/GitHub-132741?style=flat-square&amp;logo=github&amp;logoColor=91D5FF">
 <img alt="Azure DevOps" height="24" src="https://img.shields.io/badge/Azure%20DevOps-132741?style=flat-square">
+</p>
 
 Responsive design · Accessibility · Design systems · Testing and code quality · Web performance
 

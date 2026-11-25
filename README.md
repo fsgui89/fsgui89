@@ -1,70 +1,68 @@
-# Guilherme Ferreira
+![Guilherme Ferreira. Frontend Developer with a Full Stack background. React, Next.js, TypeScript and AI Integration.](assets/guilherme-ferreira-banner.webp)
 
-[English](#english) | [Português](#portugues)
+[Featured projects](#featured-projects) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://www.linkedin.com/in/guilhermefsdev/)
 
-**Frontend Developer**
+## About Me
 
-React • Next.js • JavaScript • TypeScript  
-REST APIs • AI Integration • UX
+I'm a **Frontend Developer specializing in React**, with Full Stack training and complementary backend knowledge. I build responsive interfaces with React, Next.js and TypeScript, develop reusable components and integrate REST APIs. I care about accessible interactions, clear user flows and code that's easy to review and improve.
 
-[Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [GitHub](https://github.com/fsgui89)
+At Nexso, I contribute to SaaS frontend development. I use AI to explore solutions, support implementation and review code, then verify the results against the product requirements.
 
-<a id="english"></a>
+<details>
+<summary>Leia em português</summary>
 
-## English
+Sou **Frontend Developer especializado em React**, com formação Full Stack e conhecimentos complementares de backend. Desenvolvo interfaces responsivas com React, Next.js e TypeScript, construo componentes reutilizáveis e integro APIs REST. Trabalho com atenção à acessibilidade, à experiência do usuário e à qualidade do código.
 
-I am a Frontend Developer specializing in React. I build responsive web interfaces with React, Next.js, JavaScript and TypeScript, using reusable components and REST API integrations, with attention to code quality, UX and product requirements.
+Na Nexso, contribuo com o desenvolvimento frontend de soluções SaaS. Uso IA para planejar soluções, apoiar a implementação e revisar o código. Eu valido as entregas com base nos requisitos do produto e sou responsável pelas decisões técnicas.
 
-At Nexso, I contribute to SaaS frontend development. The omnichannel module is complete; AI-powered customer service remains in development. My background in leadership, process improvement and automation strengthens how I understand needs and turn them into practical solutions.
+</details>
 
-### Focus
+## Tech Stack
 
-- **Frontend:** React as my main specialty, alongside Next.js, JavaScript, TypeScript, HTML, CSS and responsive design.
-- **Interfaces and integrations:** Reusable components, REST APIs and clear interaction flows.
-- **Product and delivery:** UX, Product Discovery, Git / GitHub and Azure DevOps.
-- **Complementary knowledge:** Node.js and Python; PostgreSQL / SQL and MongoDB used in study projects. These support service integration and collaboration with backend teams.
+**Frontend**
 
-### Selected Projects
+<img alt="React" height="24" src="https://img.shields.io/badge/React-132741?style=flat-square&amp;logo=react&amp;logoColor=91D5FF">
+<img alt="Next.js" height="24" src="https://img.shields.io/badge/Next.js-132741?style=flat-square&amp;logo=nextdotjs&amp;logoColor=91D5FF">
+<img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-132741?style=flat-square&amp;logo=typescript&amp;logoColor=91D5FF">
+<img alt="JavaScript" height="24" src="https://img.shields.io/badge/JavaScript-132741?style=flat-square&amp;logo=javascript&amp;logoColor=91D5FF">
+<img alt="HTML5" height="24" src="https://img.shields.io/badge/HTML5-132741?style=flat-square&amp;logo=html5&amp;logoColor=91D5FF">
+<img alt="CSS3" height="24" src="https://img.shields.io/badge/CSS3-132741?style=flat-square&amp;logo=css&amp;logoColor=91D5FF">
+<img alt="Tailwind CSS" height="24" src="https://img.shields.io/badge/Tailwind%20CSS-132741?style=flat-square&amp;logo=tailwindcss&amp;logoColor=91D5FF">
+<img alt="Vite" height="24" src="https://img.shields.io/badge/Vite-132741?style=flat-square&amp;logo=vite&amp;logoColor=91D5FF">
 
-| Project | What it demonstrates | Source |
-| --- | --- | --- |
-| [Portfolio 2.0](https://fsgui89.github.io/portfolio-guilherme-ferreira/) | React, TypeScript, responsive navigation and a multilingual EN / PT / IT interface | [Repository](https://github.com/fsgui89/portfolio-guilherme-ferreira) |
-| [TaskFlow](https://fsgui89.github.io/todo-list-react/) | React and TypeScript task management, filters and local persistence | [Repository](https://github.com/fsgui89/todo-list-react) |
-| [Torcida Brasil](https://fsgui89.github.io/torcida-brasil/) | Vanilla JavaScript storefront and simulated checkout | [Repository](https://github.com/fsgui89/torcida-brasil) |
-| [StepZone](https://fsgui89.github.io/stepzone/) | Study storefront with Next.js, TypeScript, shared cart state and Tailwind CSS | [Repository](https://github.com/fsgui89/stepzone) |
-| [PetCare](https://fsgui89.github.io/petcare/) | Next.js and TypeScript study booking workflow with browser persistence | [Repository](https://github.com/fsgui89/petcare) |
+**Backend & Integration** · Complementary skills
 
-The project READMEs document each implementation's stack, features, setup and scope. My wider professional stack is listed above; individual repositories demonstrate the technologies described in their own documentation.
+<img alt="Node.js" height="24" src="https://img.shields.io/badge/Node.js-132741?style=flat-square&amp;logo=nodedotjs&amp;logoColor=91D5FF">
+<img alt="REST APIs" height="24" src="https://img.shields.io/badge/REST%20APIs-132741?style=flat-square">
+<img alt="SQL" height="24" src="https://img.shields.io/badge/SQL-132741?style=flat-square">
 
----
+**Development & Quality**
 
-<a id="portugues"></a>
+<img alt="Git" height="24" src="https://img.shields.io/badge/Git-132741?style=flat-square&amp;logo=git&amp;logoColor=91D5FF">
+<img alt="GitHub" height="24" src="https://img.shields.io/badge/GitHub-132741?style=flat-square&amp;logo=github&amp;logoColor=91D5FF">
+<img alt="Azure DevOps" height="24" src="https://img.shields.io/badge/Azure%20DevOps-132741?style=flat-square">
 
-## Português
+Responsive design · Accessibility · Design systems · Testing and code quality · Web performance
 
-Sou Frontend Developer especializado em React. Desenvolvo interfaces web responsivas com React, Next.js, JavaScript e TypeScript, utilizando componentes reutilizáveis e integrações com APIs REST, com atenção à qualidade do código, UX e requisitos de produto.
+**AI-Assisted Development**
 
-Na Nexso, contribuo para o desenvolvimento frontend de soluções SaaS. O módulo omnichannel está concluído; o atendimento por IA permanece em desenvolvimento. Minha trajetória em liderança, melhoria de processos e automação fortalece minha capacidade de entender necessidades e transformá-las em soluções práticas.
+AI integration · AI-assisted coding · Problem solving · Code review · Development productivity
 
-### Foco de atuação
+## Featured Projects
 
-- **Frontend:** React como especialidade principal, além de Next.js, JavaScript, TypeScript, HTML, CSS e desenvolvimento responsivo.
-- **Interfaces e integrações:** Componentes reutilizáveis, APIs REST e fluxos de interação claros.
-- **Produto e entrega:** UX, descoberta de produto, Git / GitHub e Azure DevOps.
-- **Conhecimentos complementares:** Node.js e Python; PostgreSQL / SQL e MongoDB utilizados em projetos de estudo. Apoiam a integração com serviços e a colaboração com backend.
+| Preview | Project |
+| :--- | :--- |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/portfolio-2.0.webp" width="144" alt="Portfolio homepage and navigation"> | **Portfolio 2.0**<br>A multilingual portfolio in English, Portuguese and Italian, with responsive navigation and a browsable project showcase.<br><sub>React · TypeScript · Vite · CSS</sub><br>[Code](https://github.com/fsgui89/portfolio-guilherme-ferreira) · [Demo](https://fsgui89.github.io/portfolio-guilherme-ferreira/) |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/taskflow-react.png" width="144" alt="TaskFlow task list with status filters"> | **TaskFlow**<br>A task manager with reusable components, typed task states, completion filters and browser persistence.<br><sub>React · TypeScript · Vite · CSS</sub><br>[Code](https://github.com/fsgui89/todo-list-react) · [Demo](https://fsgui89.github.io/todo-list-react/) |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/stepzone.png" width="144" alt="StepZone sneaker storefront"> | **StepZone**<br>A sneaker storefront prototype with product pages, shared cart state and a simulated checkout.<br><sub>Next.js · TypeScript · Tailwind CSS</sub><br>[Code](https://github.com/fsgui89/stepzone) · [Demo](https://fsgui89.github.io/stepzone/) |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/petcare.png" width="144" alt="PetCare appointment booking interface"> | **PetCare**<br>A scheduling prototype with booking, confirmation and an appointment management dashboard.<br><sub>Next.js · TypeScript · CSS Modules</sub><br>[Code](https://github.com/fsgui89/petcare) · [Demo](https://fsgui89.github.io/petcare/) |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/agencia-aurora.png" width="144" alt="Agência Aurora landing page"> | **Agência Aurora**<br>A responsive agency landing page built from reusable React components with scoped styles.<br><sub>Next.js · TypeScript · CSS Modules</sub><br>[Code](https://github.com/fsgui89/agencia-aurora) · [Demo](https://fsgui89.github.io/agencia-aurora/) |
+| <img src="https://fsgui89.github.io/portfolio-guilherme-ferreira/images/projects/torcida-brasil.png" width="144" alt="Torcida Brasil football merchandise storefront"> | **Torcida Brasil**<br>A storefront prototype with catalog filters and a multi-page flow covering the cart, simulated checkout and confirmation.<br><sub>JavaScript · HTML · CSS</sub><br>[Code](https://github.com/fsgui89/torcida-brasil) · [Demo](https://fsgui89.github.io/torcida-brasil/) |
 
-### Projetos selecionados
+## AI-Assisted Software Development
 
-| Projeto | O que demonstra | Código |
-| --- | --- | --- |
-| [Portfólio 2.0](https://fsgui89.github.io/portfolio-guilherme-ferreira/) | React, TypeScript, navegação responsiva e interface multilíngue EN / PT / IT | [Repositório](https://github.com/fsgui89/portfolio-guilherme-ferreira) |
-| [TaskFlow](https://fsgui89.github.io/todo-list-react/) | Gestão de tarefas em React e TypeScript, filtros e persistência local | [Repositório](https://github.com/fsgui89/todo-list-react) |
-| [Torcida Brasil](https://fsgui89.github.io/torcida-brasil/) | Loja em JavaScript puro e checkout simulado | [Repositório](https://github.com/fsgui89/torcida-brasil) |
-| [StepZone](https://fsgui89.github.io/stepzone/) | Loja de estudo com Next.js, TypeScript, carrinho compartilhado e Tailwind CSS | [Repositório](https://github.com/fsgui89/stepzone) |
-| [PetCare](https://fsgui89.github.io/petcare/) | Fluxo de estudo de agendamentos em Next.js e TypeScript com persistência no navegador | [Repositório](https://github.com/fsgui89/petcare) |
+I start by translating requirements into clear behavior, edge cases and a plan. I use AI to compare approaches, turn that logic into code and spot issues during review. I own the technical decisions and validate the result against requirements, test cases and real user flows before shipping.
 
-Os READMEs documentam stack, funcionalidades, execução e escopo de cada implementação. A lista profissional acima representa minha atuação mais ampla; cada repositório demonstra as tecnologias descritas em sua própria documentação.
+## Connect With Me
 
-### Contato
-
-[Portfólio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [GitHub](https://github.com/fsgui89)
+[LinkedIn](https://www.linkedin.com/in/guilhermefsdev/) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [Email](mailto:fsgui89@gmail.com)
